@@ -1,6 +1,6 @@
-# image_flux2_klein_image_edit_4b_distilled.json
+# Flux2 Klein 9b Dockerimage
 
-Dockerized ComfyUI workflow: image_flux2_klein_image_edit_4b_distilled.json
+Dockerized ComfyUI workflow
 
 ## Contents
 
